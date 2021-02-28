@@ -1,7 +1,7 @@
 {
   "name": "imagebase64",
   "version": "1.0.0",
-  "description": "",
+  "description": "Convert base64 to image",
   "main": "index.js",
   "scripts": {
     "test": "jest --passWithNoTests --silent --noStackTrace --runInBand",
@@ -10,8 +10,8 @@
     "test:staged": "npm test --",
     "test:ci": "npm test -- --coverage"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["image","png","base 64 to image", "base64", "convert to image"],
+  "author": "Michael Quesado",
   "license": "ISC",
   "devDependencies": {
     "@types/jest": "^26.0.20",
