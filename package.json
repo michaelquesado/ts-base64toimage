@@ -10,7 +10,13 @@
     "test:staged": "npm test --",
     "test:ci": "npm test -- --coverage"
   },
-  "keywords": ["image","png","base 64 to image", "base64", "convert to image"],
+  "keywords": [
+    "image",
+    "png",
+    "base 64 to image",
+    "base64",
+    "convert to image"
+  ],
   "author": "Michael Quesado",
   "license": "ISC",
   "devDependencies": {
