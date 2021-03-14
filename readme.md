@@ -10,7 +10,7 @@ You can easy pass a string base64 to a image.
 Use the package manager npm to install.
 
 ```bash
-npm install base64toimage
+npm install ts-base64toimage
 ```
 
 ## Usage
