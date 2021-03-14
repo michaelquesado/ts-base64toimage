@@ -16,7 +16,7 @@ npm install base64toimage
 ## Usage
 
 ```typescript
-import { passBase64 } from 'base64toimage'
+import { passBase64 } from 'ts-base64toimage'
 
 passBase64.toImage('your_base64', 
   {

@@ -1,5 +1,5 @@
 {
-  "name": "imagebase64",
+  "name": "ts-base64toimage",
   "version": "1.0.0",
   "description": "Convert base64 to image",
   "main": "index.js",
