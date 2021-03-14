@@ -1,0 +1,2 @@
+[![Build Status](https://travis-ci.org/michaelquesado/ts-base64-to-image.svg?branch=master)](https://travis-ci.org/michaelquesado/ts-base64-to-image)
+[![Coverage Status](https://coveralls.io/repos/github/michaelquesado/ts-base64-to-image/badge.svg?branch=master)](https://coveralls.io/github/michaelquesado/ts-base64-to-image?branch=master)
