@@ -2,6 +2,7 @@
   "name": "ts-base64toimage",
   "version": "1.0.1",
   "description": "Convert base64 to image",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "dev": "ts-node --transpile-only teste.ts",
